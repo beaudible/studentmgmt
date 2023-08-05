@@ -1,0 +1,10 @@
+[versions]
+java = "17"
+mapstruct = "1.5.3.final"
+junitVersion = "5.8.2"
+
+[libraries]
+
+[plugins]
+
+[bundles]
